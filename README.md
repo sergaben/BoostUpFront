@@ -4,7 +4,7 @@ This project was boostrapped with [React-OvoBoilerplate](https://github.com/dani
 
 To see the backend of this application, see [boostupback](https://github.com/sergaben/BoostUpFront)
 
-#Technologies used
+## Technologies used
 
 Main language | Main framework
 --------------|---------------
